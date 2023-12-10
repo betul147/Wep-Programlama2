@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kampintro", "Kampintro\Kampintro.csproj", "{6F690DD5-92CF-44A9-A6CE-D70692F7D9C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dongular", "Dongular\Dongular.csproj", "{24669E3E-5459-4DD9-8FE3-F430A673C3B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classintro", "Classintro\Classintro.csproj", "{C58129B5-248A-423E-9156-C853C66A0152}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F690DD5-92CF-44A9-A6CE-D70692F7D9C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F690DD5-92CF-44A9-A6CE-D70692F7D9C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F690DD5-92CF-44A9-A6CE-D70692F7D9C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F690DD5-92CF-44A9-A6CE-D70692F7D9C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24669E3E-5459-4DD9-8FE3-F430A673C3B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24669E3E-5459-4DD9-8FE3-F430A673C3B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24669E3E-5459-4DD9-8FE3-F430A673C3B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24669E3E-5459-4DD9-8FE3-F430A673C3B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C58129B5-248A-423E-9156-C853C66A0152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C58129B5-248A-423E-9156-C853C66A0152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C58129B5-248A-423E-9156-C853C66A0152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C58129B5-248A-423E-9156-C853C66A0152}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11F00A26-A4C7-435F-BE96-B791F470EE1C}
+	EndGlobalSection
+EndGlobal
